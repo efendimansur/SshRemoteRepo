@@ -2,3 +2,4 @@ data ke-1
 data ke-2
 data ke-3
 
+data ke-4 local
