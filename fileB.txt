@@ -2,3 +2,5 @@ data ke-1
 data ke-2
 data ke-3
 
+
+data ke-5 remote
